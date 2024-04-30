@@ -70,7 +70,7 @@ p {
     white-space: pre-line;
     
 }
-
+/* para for paralel */
 .image_para {
     display: flex;
     justify-content: space-evenly;
